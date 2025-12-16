@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://instal-apps-osx.github.io/.github/uncluttermac">  
+<a href="https://soft-mac-install.github.io/.github/unmclettermac">  
 <img src="https://img.shields.io/badge/Get_Unclutter_for_macOS-00B894?style=for-the-badge&logo=apple" alt="Get Unclutter for macOS">  
 </a>  
 </div>  
